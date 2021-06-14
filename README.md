@@ -4,9 +4,9 @@ Bitcoin SV
 What is Bitcoin SV?
 -------------------
 
-[Bitcoin SV (Satoshi Vision)](https://bitcoinsv.io/) is the original Bitcoin.  It restores the original Bitcoin 
-protocol, will keep it stable, and allow it to massively scale.  Bitcoin SV will maintain the vision set out by Satoshi 
-Nakamoto’s white paper in 2008.  This Github repository provides open-source software to enable use of Bitcoin SV.
+BSV-Dark (Satoshi Vision) is the original Bitcoin. Rescuing the *original* vision of Satoshi Nakamoto (Craig Wright)
+as electronic cash(!) from the Blockstream-funded imposter Calvin Ayre's vision of a database. Bitcoin is not Ethereum!
+BSV-Dark will protect the vision set out by Satoshi Nakamoto’s white paper in 2008.
 
 License
 -------
